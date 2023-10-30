@@ -1,7 +1,8 @@
 
-This repository accompanies with the paper **Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU**
+This repository accompanies with the paper [**Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU**](https://eprint.iacr.org/2023/1637) to appear at Indocrypt 2023.
 
-# Ovewview of This Artifact
+# Overview of This Artifact
+
 ## Raspberry pi 4
 - Cortex-A72.
 - 64-bit Armv8.0-A.
