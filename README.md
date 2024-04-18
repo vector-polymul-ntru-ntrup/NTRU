@@ -1,5 +1,7 @@
 
-This repository accompanies with the paper [**Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU**](https://eprint.iacr.org/2023/1637) to appear at Indocrypt 2023.
+This repository accompanies with the paper **Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU** at
+[International Conference on Cryptology in India, 2023](https://link.springer.com/chapter/10.1007/978-3-031-56235-8_9).
+The paper is also available at [ePrint 2023/1637](https://eprint.iacr.org/2023/1637).
 
 # Overview of This Artifact
 
