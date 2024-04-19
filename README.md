@@ -3,6 +3,12 @@ This repository accompanies with the paper **Algorithmic Views of Vectorized Pol
 [International Conference on Cryptology in India, 2023](https://link.springer.com/chapter/10.1007/978-3-031-56235-8_9).
 The paper is also available at [ePrint 2023/1637](https://eprint.iacr.org/2023/1637).
 
+Authors:
+- Han-Ting Chen `r10922073@csie.ntu.edu.tw`
+- [Yi-Hua Chung]() `yhchiara@gmail.com`
+- [Vincent Hwang](https://vincentvbh.github.io/) `gting906@gmail.com`
+- [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/) `by@crypto.tw`
+
 # Overview of This Artifact
 
 ## Raspberry pi 4
