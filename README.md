@@ -5,7 +5,7 @@ The paper is also available at [ePrint 2023/1637](https://eprint.iacr.org/2023/1
 
 Authors:
 - Han-Ting Chen `r10922073@csie.ntu.edu.tw`
-- [Yi-Hua Chung]() `yhchiara@gmail.com`
+- [Yi-Hua Chung](https://yi-huaaa.github.io/about/) `yhchiara@gmail.com`
 - [Vincent Hwang](https://vincentvbh.github.io/) `gting906@gmail.com`
 - [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/) `by@crypto.tw`
 
