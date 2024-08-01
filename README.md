@@ -16,7 +16,7 @@ Authors:
 - 64-bit Armv8.0-A.
 - No hardware support for cryptographic operations.
 
-## Schemes and Parameters
+## Schemes and Parameter Sets
 - NTRU
     - `ntruhps2048677`
     - `ntruhrss701`
@@ -30,9 +30,9 @@ Authors:
 - A C compiler.
 
 ## Additional Tests for Compilations
-- Raspberry pi 4, Uubntu 22.04.1, clang 14.0.0.
-- Apple M1, macOS Monterey, clang 13.1.6.
-- Apple M1, macOS Monterey, gcc 11.3.0.
+- Raspberry pi 4, Uubntu 22.04.1, clang 14.0.0
+- Apple M1, macOS Monterey, clang 13.1.6
+- Apple M1, macOS Monterey, gcc 11.3.0
 
 # Structure of This Artifact
 - `cycles`: Code for accessing cycle counters.
