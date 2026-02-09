@@ -43,7 +43,7 @@ uint64_t sort_all_cycles[NTESTS];
 
 #define LOOP_INIT(__clock) {}
 #define LOOP_TAIL(__f_string, records, __clock) { \
-    qsort(records, sizeof(uint64_t), NTESTS, cmp_uint64); \
+    qsort(records, NTESTS, sizeof(uint64_t), cmp_uint64); \
     printf(__f_string, records[NTESTS >> 1]); \
 }
 #define BODY_INIT(__clock) { \
